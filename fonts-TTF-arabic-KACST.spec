@@ -2,11 +2,11 @@ Summary:	Free fonts from King Abdul Aziz City for Science and Technology
 Summary(pl.UTF-8):	Wolnodostępne czcionki z King Abdul Aziz City for Science and Technology
 Name:		fonts-TTF-arabic-KACST
 Version:	2.0
-Release:	0.2
+Release:	0.3
 License:	GPL
 Group:		Fonts
 Source0:	http://prdownloads.sourceforge.net/arabeyes/kacst_fonts_%{version}.tar.bz2
-# Source0-md5:	d41d8cd98f00b204e9800998ecf8427e
+# Source0-md5:	0b6d7b619c85e09c80fca7248af59892
 URL:		http://www.arabeyes.org
 Requires(post,postun):	fontpostinst
 BuildArch:	noarch
